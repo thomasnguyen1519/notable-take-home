@@ -14,7 +14,7 @@ python3 TranscriptTransformer.py
 ```
 
 Currently, a sample string that is to be transformed is hardcoded into the program. However,
-this should be changed.
+this can be changed to any desired input.
 
 ## Assumptions
 
@@ -27,4 +27,4 @@ of the input string.
 3. The first instance of 'Number n' is assumed to be the start of the ordered list.
 Subsequent occurrences of 'Number n' will be assumed to be content for the ordered
 list items.
-4. In general, the program assumes proper input from the client. 
+4. In general, the program assumes proper input from the client.
